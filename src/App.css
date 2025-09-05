@@ -1,0 +1,20 @@
+.land-cont{
+  height: 75vh;
+
+}
+.land-cont input{
+  height: 45px;
+  margin-left: auto;
+  width: 40%;
+}
+.land-cont button{
+  margin-right: auto;
+  height: 45px;
+}
+.track-box{
+  height: 80px;
+  width: 80px;
+}
+.sign-cont{
+height: 60vh;
+}
